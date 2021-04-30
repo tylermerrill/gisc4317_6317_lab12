@@ -1,0 +1,3 @@
+My project consists of a lot of data.
+
+My github repo is https://github.com/karinanicolejuarez/gisc4317_6317_lab10
