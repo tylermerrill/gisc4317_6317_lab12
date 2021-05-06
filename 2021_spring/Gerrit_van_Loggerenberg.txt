@@ -1,0 +1,3 @@
+My project is to find optimal path and parks along a user specified start and end point. 
+
+My github repo: https://github.com/gjv190001/gisc4317_6317_lab10
