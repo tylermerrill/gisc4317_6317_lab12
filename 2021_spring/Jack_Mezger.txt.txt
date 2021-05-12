@@ -1,0 +1,5 @@
+Chicago Hotel Safety - Jack Mezger
+
+Finding crime prevalance around hotels in Chicago.
+
+https://github.com/jmez02/gisc4317_6317_lab10
