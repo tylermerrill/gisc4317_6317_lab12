@@ -1,0 +1,4 @@
+my project is an application that downloads Landsat * OLI imagery from the U.S. Geological survery Earth Explorer API.
+Along with downloading and sorting the results, the application reads the sensor bands meta data and data in order to generate image composites or perform NDVI's
+
+git hub repo: https://github.com/skopchenko/gisc4317_6317_lab10
