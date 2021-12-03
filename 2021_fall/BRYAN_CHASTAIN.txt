@@ -1,0 +1,3 @@
+How to Blow Up the Death Star
+This python code generates the trajectory to follow.
+My github account is here: https://github.com/bchastain
