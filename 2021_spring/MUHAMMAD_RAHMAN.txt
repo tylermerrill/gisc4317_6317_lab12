@@ -1,0 +1,5 @@
+. How the Marine data works
+The purpose of our project is to explore marine data using python
+here is the link of my repo: https://github.com/mar180004/gisc4317_6317_lab12.git
+
+
