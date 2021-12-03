@@ -1,0 +1,7 @@
+.
+TORNADO DATA ANALYSIS
+
+The purpose of our project is to create code that would allow for individuals to visualize
+tornado data from the Storm Prediction Center.
+
+My github account is here: https://github.com/sxc170002
