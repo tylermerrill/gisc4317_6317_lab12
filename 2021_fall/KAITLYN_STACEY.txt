@@ -1,0 +1,7 @@
+. 
+Mapping rootless cones in Cerbrus Palus, Mars
+
+My project involves creating an interactive webmap of my research study area on Mars with layers of relevant geologic units, 
+as well as creating histograms of morphological data in Jupyter.
+
+https://github.com/kaitlynstacey/gisc4317_6317_lab12.git
