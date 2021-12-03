@@ -1,0 +1,3 @@
+.
+My final project will create a interactive dashboard for the user to interpret different climate and health data.  
+My github account is here: https://github.com/igregorek
