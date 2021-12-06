@@ -1,0 +1,3 @@
+The Relationship between Bird Species Occurrence and NDVI over Time in Frisco, TX
+My project’s purpose is to examine the impacts of city expansion on bird occurrences.
+My github account is here: https://github.com/NatalieDC
