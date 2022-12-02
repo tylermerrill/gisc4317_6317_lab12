@@ -1,3 +1,4 @@
-Project
+ 
+This is my project.
 
-My repository: https://github.com/axc713/gisc4317_6317_lab12.git
+Git repo: https://github.com/axc713/giscX317_lab12.git
