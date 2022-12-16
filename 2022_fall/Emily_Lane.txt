@@ -1,0 +1,3 @@
+My project is a beta'd version of an interactive geodatabase of active construction plans to help visualize growth of the built environment and how it impacts surrounding ecosystems.
+
+My repository is here: https://github.com/egl180001/gisc4317_6317_lab12.git
