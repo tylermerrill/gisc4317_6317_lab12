@@ -1,0 +1,8 @@
+Shopping on a budget
+Bel Khuu
+A project created for the Comet Cupboard
+
+The goal of this application is to automate this price comparison and bulk order process that will be repeated every other week.
+
+Repository: https://github.com/belkhuu/gisc4317_6317_lab12
+
