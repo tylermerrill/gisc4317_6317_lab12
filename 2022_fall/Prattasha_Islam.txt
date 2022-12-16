@@ -1,0 +1,9 @@
+Prattasha Nawar Islam, EPPS 6317. Fall 2022
+
+Final Project: Airlines Analyzer Application
+
+The purpose of creating this user-friendly application based on scraping airlines data is to make the process of finding the best performing airlines automated and easier to handle.
+The ability to scrape the data will help the users or in other words, the potential third party investors, business partners, or travel agencies to compare and choose between the airline companies which they prefer the most.
+This application will be a useful and interactive tool for any individual or organization to decide on whether investing or partnering up with certain airline companies is worth doing or not. 
+
+Repository: https://github.com/prattashaislam/gisc4317_6317_lab12
