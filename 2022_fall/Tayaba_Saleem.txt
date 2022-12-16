@@ -1,0 +1,4 @@
+My project is on Twitter senitment. For my project i have extracted twitter data using #JPMorgan 
+and ran sentiment analysis on that data. 
+
+My repository is here: https://github.com/tayabasaleem1993/gisc4317_6317_lab12
