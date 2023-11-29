@@ -1,0 +1,4 @@
+
+Final Project: Encouragement Bot
+I am creating a Python function which will go to your account on Mastodon, identify your most recent post, and use the languagemodels package to generate a unique encouraging message curated by user input. The function will then log on to a bot account to post that message as a comment under the original post. 
+https://github.com/C0bb13/gisc4317_6317_lab12
