@@ -1,0 +1,4 @@
+Program for Generating Geometry from Township-Range-Section legal descriptions
+The objective of this program is to automate the process of drawing by interpreting the legal descriptions, normalizing, querying required data from PLSS web map services, use the queried geometries to calculate the locations, and then save those locations as a feature layer in a File Geodatabase or as a shapefile.
+https://github.com/AmericoUTD/gisc4317_6317_lab12
+ 
