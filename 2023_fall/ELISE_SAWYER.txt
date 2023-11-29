@@ -1,0 +1,3 @@
+# Solar Eclipse Tool
+We think eclipses are cool. With our tool, you can get the information you need to optimally experience these solar events.
+https://github.com/EliseWhatever/gisc4317_6317_lab12/tree/main
