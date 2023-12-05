@@ -1,0 +1,4 @@
+#   Data Exploration Program
+A python program to aid in the beginning of a data science project.
+Identifies missing data and has basic data visualization and summarization capabilities.
+https://github.com/aldenfelix/gisc4317_6317_lab12
